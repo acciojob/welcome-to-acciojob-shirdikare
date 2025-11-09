@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9fafb;
+    margin: 0;
+    padding: 40px;
+}
+
+h1 {
+    color: #0077cc;
+}
